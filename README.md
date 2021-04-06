@@ -8,8 +8,8 @@ We will be covering the following concepts:
 * ✔️ Arrays
 * ✔️ ArrayList
 * ✔️ Enhanced forloops
-* String manipulation
-* Class Constructors
+* ✔️ String manipulation
+* ✔️ Class Constructors
 * Access Modifiers
 * OOP
 * Abstraction
