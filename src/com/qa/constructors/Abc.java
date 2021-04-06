@@ -7,9 +7,7 @@ public class Abc {
 	 // constructor = a method to instantiate object
 	 // must have the same name as the class!
 	 // no return type!
-	 public Abc() {
-		 
-	 }
+	 public Abc() {}
 	 
 	 
 }

@@ -9,13 +9,19 @@ public class Customer {
 
 	public Customer() {}
 	
-	public Customer(String firstName, String street) {
-		this.name = firstName;
-		this.address = street;
+	public Customer(String name, String address) {
+		this.name = name;
+		this.address = address;
+	}
+	
+	public Customer(String name, String address, String number) {
+		this.name = name; 
+		this.address = address;
+		this.number = number ; 
 	}
 	
 	public void printName() {
-		System.out.println("The customers name is: " + name);
+		System.out.println("The customers name is: " + this.name);
 	}
 	
 	
