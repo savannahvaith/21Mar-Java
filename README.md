@@ -10,10 +10,10 @@ We will be covering the following concepts:
 * ✔️ Enhanced forloops
 * ✔️ String manipulation
 * ✔️ Class Constructors
-* Access Modifiers
-* OOP
-* Abstraction
-* Interfaces
+* ✔️ Access Modifiers
+* ✔️ OOP
+* ✔️ Abstraction
+* ✔️ Interfaces
 * Static
 * Final
 * Input with Scanner
