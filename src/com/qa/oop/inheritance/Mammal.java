@@ -7,6 +7,10 @@ public class Mammal extends Animal{
 	private int speed; 
 	private boolean warmBlood; 
 	
+	public Mammal(int speed) {
+		this.speed = speed; 
+	}
+	
 	public Mammal(int speed, int numberOfLegs, boolean hasFur) {
 		this.speed = speed; 
 		this.numberOfLegs = numberOfLegs; 

@@ -2,7 +2,7 @@ package com.qa.oop.inheritance;
 
 public class Dog extends Mammal{
 
-	private String species; 
+	private String species;
 	
 	public Dog(int speed, int numberOfLegs, boolean hasFur) {
 		super(speed, numberOfLegs, hasFur);
@@ -13,7 +13,6 @@ public class Dog extends Mammal{
 		this.species = species;
 	}
 	
-
 	public void speak() {
 		System.out.println("Woooof");
 	}
