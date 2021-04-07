@@ -1,6 +1,5 @@
 package com.qa.recap;
 
-import com.qa.oldstuff.Hello2;
 
 public class Runner {
 	
