@@ -14,9 +14,9 @@ We will be covering the following concepts:
 * ✔️ OOP
 * ✔️ Abstraction
 * ✔️ Interfaces
-* Static
-* Final
-* Input with Scanner
+* ✔️ Static
+* ✔️ Final
+* ✔️ Input with Scanner
 * JUnit
 * TDD
 * Peer Programming
